@@ -21,7 +21,7 @@ A career guidance chatbot built with **LangChain**, **LangGraph**, and **Google 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/langchain-career-guidance-chatbot.git
+git clone https://github.com/gaurav-daware/langchain-career-guidance-chatbot.git
 cd langchain-career-guidance-chatbot
 ```
 
